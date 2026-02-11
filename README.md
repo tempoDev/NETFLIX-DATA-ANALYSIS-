@@ -30,7 +30,7 @@ Se me pide desarrollar un script donde, utilizando las librerías Pandas y MatPl
 - ✅ Sistema de recomendación parametrizable (top-N)
 - ✅ Optimizado para el dataset de Netflix
 
-### OUTPUT
+### ⬇️ OUTPUT
 
 Este sería una muestra de la salida que daría el script para una recomendación tipo dada la sugerencia de la serie Stranger things.
 
